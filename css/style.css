@@ -1,0 +1,17 @@
+Body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: color-mix(red srgb, blue percentage, yellow percentage);
+    transition: 0.25s;
+    animation: ease-in-out;
+    margin: 0;
+    display: block;
+}
+#btn1:hover{
+    background-color: hsl(0, 98%, 54%);
+    
+}
+#hover1{
+    background-color: rgb(249, 15, 15);
+    display: block;
+    margin: 20px;
+}
